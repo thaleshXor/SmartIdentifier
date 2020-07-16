@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+  <webElementProperties>
+    <matchCondition>equals</matchCondition>
+    <name>autocorrect</name>
+    <value>off</value>
+    <isSelected>false</isSelected>
+  </webElementProperties>
+  <webElementProperties>
+    <matchCondition>equals</matchCondition>
+    <name>aria-autocomplete</name>
+    <value>list</value>
+    <isSelected>false</isSelected>
+  </webElementProperties>
+  <webElementProperties>
+    <matchCondition>equals</matchCondition>
+    <name>autocomplete</name>
+    <value>off</value>
+    <isSelected>false</isSelected>
+  </webElementProperties>
+  <webElementProperties>
+    <matchCondition>equals</matchCondition>
+    <name>spellcheck</name>
+    <value>false</value>
+    <isSelected>false</isSelected>
+  </webElementProperties>
+  <webElementProperties>
+    <matchCondition>equals</matchCondition>
+    <name>tabindex</name>
+    <value>0</value>
+    <isSelected>false</isSelected>
+  </webElementProperties>
+  <webElementProperties>
+    <matchCondition>equals</matchCondition>
+    <name>style</name>
+    <value>box-sizing: content-box; width: 2px; background: 0px center; border: 0px; font-size: inherit; opacity: 1; outline: 0px; padding: 0px; color: inherit;</value>
+    <isSelected>false</isSelected>
+  </webElementProperties>
+  <webElementProperties>
+    <matchCondition>equals</matchCondition>
+    <name>tag</name>
+    <value>INPUT</value>
+    <isSelected>true</isSelected>
+  </webElementProperties>
+  <webElementProperties>
+    <matchCondition>equals</matchCondition>
+    <name>id</name>
+    <value>react-select-4-input</value>
+    <isSelected>true</isSelected>
+  </webElementProperties>
+  <webElementProperties>
+    <matchCondition>equals</matchCondition>
+    <name>type</name>
+    <value>text</value>
+    <isSelected>false</isSelected>
+  </webElementProperties>
+  <webElementProperties>
+    <matchCondition>equals</matchCondition>
+    <name>autocapitalize</name>
+    <value>none</value>
+    <isSelected>false</isSelected>
+  </webElementProperties>
+  <Name>off_list</Name>
+</WebElementEntity>
+

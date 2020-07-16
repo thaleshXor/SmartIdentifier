@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<attributes>
+  <attribute>
+    <name>id</name>
+    <priorityScore>29</priorityScore>
+  </attribute>
+  <attribute>
+    <name>name</name>
+    <priorityScore>25</priorityScore>
+  </attribute>
+    <attribute>
+    <name>tag;id</name>
+    <priorityScore>24</priorityScore>
+  </attribute>
+    <attribute>
+    <name>tag;name</name>
+    <priorityScore>20</priorityScore>
+  </attribute>
+    <attribute>
+    <name>tag;text</name>
+    <priorityScore>18</priorityScore>
+  </attribute>
+    <attribute>
+    <name>tag;text;class</name>
+    <priorityScore>10</priorityScore>
+  </attribute>
+    <attribute>
+    <name>tag;text;value</name>
+    <priorityScore>9</priorityScore>
+  </attribute>
+  
+ 
+</attributes>

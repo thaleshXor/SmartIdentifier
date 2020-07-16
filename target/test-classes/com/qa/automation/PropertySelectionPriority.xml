@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<propertiesCollection>
+	<properties id="primary">
+		<name>tag;id;name</name>
+	</properties>
+	<properties id="secondary">
+		<name>text;class;type;value</name>
+	</properties>
+	<properties id="additional">
+		<name>style;href;media</name>
+	</properties>
+</propertiesCollection>
